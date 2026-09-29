@@ -1,6 +1,6 @@
 
 
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import { AuthProvider } from "./context/AuthContext";
 import AppRoutes from "./routes/AppRoutes";
 
